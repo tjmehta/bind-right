@@ -1,0 +1,32 @@
+{
+  "name": "bind-right",
+  "version": "0.0.0",
+  "description": "Bind function arguments from the right",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjmehta/bind-right.git"
+  },
+  "keywords": [
+    "bind",
+    "function",
+    "right",
+    "bind",
+    "right",
+    "bind",
+    "arguments",
+    "arguments"
+  ],
+  "author": "Tejesh Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmehta/bind-right/issues"
+  },
+  "homepage": "https://github.com/tjmehta/bind-right"
+}

@@ -1,6 +1,6 @@
 {
   "name": "bind-right",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Bind function arguments from the right",
   "main": "index.js",
   "directories": {

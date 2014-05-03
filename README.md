@@ -1,4 +1,4 @@
-bind-right
+bind-right [![Build Status](https://travis-ci.org/tjmehta/bind-right.png)](https://travis-ci.org/tjmehta/bind-right)
 ==========
 
 JavaScript: bind arguments from the right.
